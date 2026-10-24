@@ -19,5 +19,5 @@ Analysed life expectancy data from 2010–2015 to investigate relationships betw
 R · dplyr · ggplot2 · lmtest · ridge · MASS
 
 ## Project Files
-- `analysis.R` — Statistical analysis and regression modelling
-- `LifeExpectancyAnalysis.pdf` — Project presentation and visualisations
+- [analysis.R](https://github.com/v-samyuktha/multivariate-life-expectancy-analysis/tree/main/analysis.R) — Statistical analysis and regression modelling
+- [LifeExpectancyAnalysis.pdf](https://github.com/v-samyuktha/multivariate-life-expectancy-analysis/tree/main/LifeExpectancyAnalysis.pdf) — Project presentation and visualisations
